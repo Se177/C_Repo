@@ -1,0 +1,15 @@
+C:\Users\Wkst\YandexDisk\_Работа_IT_2022\GeekBrains\01_Курс IT-Специалист\03. Знакомство с языками программирования\C#\Repo\DZ_02\bin\Debug\net6.0\DZ_02.exe
+C:\Users\Wkst\YandexDisk\_Работа_IT_2022\GeekBrains\01_Курс IT-Специалист\03. Знакомство с языками программирования\C#\Repo\DZ_02\bin\Debug\net6.0\DZ_02.deps.json
+C:\Users\Wkst\YandexDisk\_Работа_IT_2022\GeekBrains\01_Курс IT-Специалист\03. Знакомство с языками программирования\C#\Repo\DZ_02\bin\Debug\net6.0\DZ_02.runtimeconfig.json
+C:\Users\Wkst\YandexDisk\_Работа_IT_2022\GeekBrains\01_Курс IT-Специалист\03. Знакомство с языками программирования\C#\Repo\DZ_02\bin\Debug\net6.0\DZ_02.dll
+C:\Users\Wkst\YandexDisk\_Работа_IT_2022\GeekBrains\01_Курс IT-Специалист\03. Знакомство с языками программирования\C#\Repo\DZ_02\bin\Debug\net6.0\DZ_02.pdb
+C:\Users\Wkst\YandexDisk\_Работа_IT_2022\GeekBrains\01_Курс IT-Специалист\03. Знакомство с языками программирования\C#\Repo\DZ_02\obj\Debug\net6.0\DZ_02.csproj.AssemblyReference.cache
+C:\Users\Wkst\YandexDisk\_Работа_IT_2022\GeekBrains\01_Курс IT-Специалист\03. Знакомство с языками программирования\C#\Repo\DZ_02\obj\Debug\net6.0\DZ_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wkst\YandexDisk\_Работа_IT_2022\GeekBrains\01_Курс IT-Специалист\03. Знакомство с языками программирования\C#\Repo\DZ_02\obj\Debug\net6.0\DZ_02.AssemblyInfoInputs.cache
+C:\Users\Wkst\YandexDisk\_Работа_IT_2022\GeekBrains\01_Курс IT-Специалист\03. Знакомство с языками программирования\C#\Repo\DZ_02\obj\Debug\net6.0\DZ_02.AssemblyInfo.cs
+C:\Users\Wkst\YandexDisk\_Работа_IT_2022\GeekBrains\01_Курс IT-Специалист\03. Знакомство с языками программирования\C#\Repo\DZ_02\obj\Debug\net6.0\DZ_02.csproj.CoreCompileInputs.cache
+C:\Users\Wkst\YandexDisk\_Работа_IT_2022\GeekBrains\01_Курс IT-Специалист\03. Знакомство с языками программирования\C#\Repo\DZ_02\obj\Debug\net6.0\DZ_02.dll
+C:\Users\Wkst\YandexDisk\_Работа_IT_2022\GeekBrains\01_Курс IT-Специалист\03. Знакомство с языками программирования\C#\Repo\DZ_02\obj\Debug\net6.0\refint\DZ_02.dll
+C:\Users\Wkst\YandexDisk\_Работа_IT_2022\GeekBrains\01_Курс IT-Специалист\03. Знакомство с языками программирования\C#\Repo\DZ_02\obj\Debug\net6.0\DZ_02.pdb
+C:\Users\Wkst\YandexDisk\_Работа_IT_2022\GeekBrains\01_Курс IT-Специалист\03. Знакомство с языками программирования\C#\Repo\DZ_02\obj\Debug\net6.0\DZ_02.genruntimeconfig.cache
+C:\Users\Wkst\YandexDisk\_Работа_IT_2022\GeekBrains\01_Курс IT-Специалист\03. Знакомство с языками программирования\C#\Repo\DZ_02\obj\Debug\net6.0\ref\DZ_02.dll
